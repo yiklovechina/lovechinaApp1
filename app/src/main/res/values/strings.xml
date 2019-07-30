@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">lovechinaApp</string>
+    <string name="insert">Data</string>
+    <string name="type">Search by Name/Type</string>
+    <string name='XY'>View Maps</string>
+    <string name='maptype'>Select Type</string>
+
+    <string name="InsertTitle">Title</string>
+    <string name="InsertName">Name</string>
+    <string name="InsertAddress">Address</string>
+    <string name="InsertType">Select Type</string>
+    <string name="InsertEvidence">Evidence</string>
+    <string name="insertX">Longitude</string>
+    <string name="insertY">Latitude</string>s
+    <string name="insertDescription">Description</string>
+    <string name="InsertLoveType">Love Type</string>
+    <string name="UpdateGPS">Update GPS</string>
+
+
+
 </resources>
